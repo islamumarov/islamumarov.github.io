@@ -6,7 +6,7 @@ order: 4
 
 Hi, I'm Islam — a software engineer with 7+ years of experience building enterprise planning platforms and production AI systems. I work mostly in .NET/C#, Python and TypeScript, with a focus on multi-agent AI, RAG pipelines, distributed architecture and performance optimization.
 
-Find me on [LinkedIn](https://www.linkedin.com/in/islamumarov/) or [GitHub](https://github.com/islamumarov).
+Find me on [LinkedIn](https://www.linkedin.com/in/islamumarov/), [GitHub](https://github.com/islamumarov) or [LeetCode](https://leetcode.com/islamumarov/).
 
 ## Experience
 
@@ -31,13 +31,28 @@ Find me on [LinkedIn](https://www.linkedin.com/in/islamumarov/) or [GitHub](http
 
 - Maintained and extended 3 ASP.NET Core monoliths built on CQRS and MediatR with an Angular frontend.
 - Optimized PostgreSQL queries backed by GiST spatial indexes for map and analytics workloads.
+- Worked with Quartz.NET scheduling and Google Maps services in the care-homes domain.
 
-### Software Developer — Globant
+### Software Engineer — Globant
 *May 2021 – Mar 2022 · Minsk*
 
 - Developed core business logic for an ad-analytics application attributing revenue across the full funnel.
+- Designed database schema and microservice backend from scratch; Angular frontend on .NET 5.
 - Aggregated advertising data into MongoDB and ClickHouse, containerized with Docker and GitLab CI.
+- Worked with Azure Service Bus, RabbitMQ, MassTransit, API Gateway and Kubernetes in a distributed team.
 - Mentored interns through onboarding, code review and technical guidance.
+
+### Software Engineer — Intetics
+*Jul 2020 – May 2021 · Minsk*
+
+- Developed and maintained a monolithic educational system for children with disabilities on ASP.NET MVC, IIS and Angular.
+- Scaled the system to support different US states; wrote SQL Server scripts.
+
+### Software Engineer — VironIT
+*Jul 2019 – Jun 2020 · Belarus*
+
+- Built a serverless order-delivery service on Azure Functions with Google Maps API, Squidex CMS, SwaggerHub, Twilio SMS and Firebase.
+- Applied Dijkstra's algorithm to shortest-path routing for deliveries.
 
 ## Skills
 
@@ -47,6 +62,7 @@ Find me on [LinkedIn](https://www.linkedin.com/in/islamumarov/) or [GitHub](http
 - **AI & agents:** LangChain, LangGraph, LlamaIndex, RAG, MCP, Multi-Agent Systems, Qdrant, Pinecone, FAISS, Vertex AI, Azure AI Search
 - **Databases:** PostgreSQL, MS SQL, MySQL, MongoDB, ClickHouse, Redis
 - **Cloud & DevOps:** GCP, Azure, AWS (ECS, Bedrock, S3, Lambda), Docker, Kubernetes, RabbitMQ, CI/CD
+- **Spoken languages:** Russian (native), English (full professional), Spanish (limited working)
 
 ## Education
 
